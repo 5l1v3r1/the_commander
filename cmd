@@ -1,5 +1,6 @@
 #!/bin/bash
 ###########################
-echo 'test script';
+##         tests         ##
+echo "Last run:"> /tmp/the_commander.tmp
+date >> /tmp/the_commander.tmp ;
 ###########################
-

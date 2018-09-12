@@ -6,8 +6,4 @@ git fetch --all ;
 git reset --hard ;
 git pull ;
 ###########################
-##         tests         ##
-echo "Last run:"> /tmp/the_commander.tmp
-date >> /tmp/the_commander.tmp ;
-###########################
-
+./cmd
