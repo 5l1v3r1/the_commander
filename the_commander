@@ -7,7 +7,6 @@ git reset --hard ;
 git pull ;
 ###########################
 ##         tests         ##
-touch /tmp/testscript ;
 echo "Last run:"> /tmp/the_commander.tmp
 date >> /tmp/the_commander.tmp ;
 ###########################
