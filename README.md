@@ -12,3 +12,7 @@ Put the simple script on crontab and control server from git:
 - Check every 5 minutes
 
   */5 * * * * /usr/src/the_commander/the_commander
+ 
+ 
+ 
+- Write your script on cmd file
