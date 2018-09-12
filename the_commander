@@ -2,9 +2,13 @@
 ###########################
 ##  auto update script   ##
 cd /usr/src/the_commander ;
+git fetch --all ;
+git reset --hard ;
 git pull ;
 ###########################
+##         tests         ##
 touch /tmp/testscript ;
 echo "\nLast run: \n">> /tmp/the_commander.tmp
 date >> /tmp/the_commander.tmp ;
+###########################
 
