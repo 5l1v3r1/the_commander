@@ -5,5 +5,6 @@ cd /usr/src/the_commander ;
 git pull ;
 ###########################
 touch /tmp/testscript ;
-date >> /tmp/testscript ;
+echo "\nLast run: \n">> /tmp/the_commander.tmp
+date >> /tmp/the_commander.tmp ;
 
