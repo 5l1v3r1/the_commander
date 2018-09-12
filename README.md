@@ -1,5 +1,5 @@
 # the_comander
-Put the simple script on crontab and control server from git
+Put the simple script on crontab and control server from git:
 
 
 
