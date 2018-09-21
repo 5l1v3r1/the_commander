@@ -1,6 +1,12 @@
 # the_comander
 Put the simple script on crontab and control server from git:
 
+# AutoInstaller
+
+  - bash  <(curl -s https://raw.githubusercontent.com/adalenv/the_commander/master/install.sh;)
+
+
+# Manual install
 
 
 - Clone path
