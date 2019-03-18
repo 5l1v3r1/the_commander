@@ -11,4 +11,6 @@ cd /var/www/opus_chat;
 git pull ;
 clear;
 echo 'Updated!';
+chmod 777 /var/www/html/public/last_status_update.php
+chmod 777 /var/www/html//application/controller/api.php
 ##########################
